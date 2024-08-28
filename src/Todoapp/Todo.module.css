@@ -1,0 +1,76 @@
+.whole{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+header{
+    margin: 20px;
+}
+.todobtn{
+   padding: 6px;
+    border-radius: 10%;
+    background-color: rgba(255, 0, 0, 0.674) ;
+    color: black;
+    margin-left: 7px;
+}
+input{
+   height: 20px;
+   padding: 6px;
+  border-radius: 4%;
+}
+.unOrdList{
+    
+    width: 150px;
+height: 20px;
+padding: 6px;
+border-radius: 6%;
+border: 2px solid black;
+margin: 3px;
+
+}
+.topmargine{
+  margin-top: 20px;
+}
+
+.checkbtn{
+  background-color: rgba(27, 204, 27, 0.701);
+  padding: 5px;
+margin: 3px;
+border-radius: 18%;
+width: 40px;
+cursor: pointer;
+color: whitesmoke;
+}
+.deletebtn{
+  background-color: rgb(237, 46, 46);
+  padding: 5px;
+margin: 3px;
+border-radius: 18%;
+width: 40px;
+cursor: pointer;
+color: whitesmoke
+}
+.box{
+  /* display: inline-block; */
+  position: relative;
+  top: -40px;
+  margin-left: 290px;
+}
+ul{
+  margin-right: 80px;
+}
+.datetime{
+  margin-top: 10px;
+}
+.clear{
+  height: 40px;
+  width: 100px;
+  border: 2px solid black; 
+  border-radius: 60px ;
+  cursor: pointer;
+  color: whitesmoke;
+  background-color: rgb(5, 56, 100);
+}
+
